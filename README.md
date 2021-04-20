@@ -6,5 +6,5 @@ This passion carried me and, eventually, I also developed interests in other pro
 
 So, now, I'm working hard, hoping one day I will see myself as a full-stack developer.
 
-Languages: C/C++, Python, JavaScript, HTML/CSS, shell command.
-Software: VScode, Sublime, Adobe Illustrator, Adobe Photoshop.
+**Languages:** C/C++, Python, JavaScript, HTML/CSS, shell command.
+**Software:** VScode, Sublime, Adobe Illustrator, Adobe Photoshop.
